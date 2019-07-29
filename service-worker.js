@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/PulseCoachingClass/precache-manifest.00bdd73783a530eb78d083f24734843e.js"
+  "/PulseCoachingClass/precache-manifest.1149299c90862faca3d74297b3519afe.js"
 );
 
 workbox.clientsClaim();
